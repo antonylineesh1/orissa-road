@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Regna
-Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## A static web app for the organisation R.O.A.D 
+###### REACHING OUT FOR AID & DEVELOPMENT
+###### the same id is deployed at https://orissaroad.netlify.app/
